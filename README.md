@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @barbaroliveira
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning React
 - 📫 How to reach me barbara.pocas@gmail.com
 
 <!---
