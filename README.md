@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @barbaroliveira
-- 👀 I’m interested in learning
+- 👀 I’m interested in learning Web Development
 - 🌱 I’m currently learning React
 - 📫 How to reach me barbara.pocas@gmail.com
 
