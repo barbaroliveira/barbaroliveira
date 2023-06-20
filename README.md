@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @barbaroliveira
 - 👀 I’m interested in learning Web Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React, Node.js and C in 42 School 
 - 📫 How to reach me barbara.pocas@gmail.com
 
 <!---
