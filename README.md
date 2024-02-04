@@ -1,6 +1,6 @@
 ## About Me
 
-Hello there! 👋 I'm Barbara Oliveira, a master's student in Biomedical Engineering with interest in the intersection of technology and healthcare.
+Hello there! 👋 I'm Barbara Oliveira, a master's student in Biomedical Engineering with an interest in the intersection of technology and healthcare.
 
 ### Academic Journey:
 
@@ -8,12 +8,11 @@ Hello there! 👋 I'm Barbara Oliveira, a master's student in Biomedical Enginee
 
 - **Industrial Management:** Postgraduate studies delving into Visual Basic and SolidWorks.
 
-- **Personal Projects:** Beyond coursework, my personal projects reflect a curious mind, documented alongside languages learned and other endeavors.
+- **Personal Projects:** Beyond coursework, my projects reflect a curious mind, documented alongside languages learned and other endeavors.
 
 ### Thesis Work:
 
-Currently immersed in my thesis, I'm curruntly making an Full Stack Aplication for the management of Dental Clinics
-
+Currently immersed in my thesis, I'm making a Full-stack application for the management of Dental Clinics using React for the front end, NodeJS for the backend, and MySQL for the database.
 
 ### Future Pursuits:
 
